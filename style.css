@@ -1,0 +1,38 @@
+body{
+    background-color:lavender;
+}
+h1{
+    background-color: honeydew;
+    width:460px;
+    height:90px;
+    font-size:70px;
+    border-width:10px;
+    border-color:indigo;
+    border-style:solid;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#item-1{
+    background-color: azure;
+    width:fit-content;
+
+}
+#item-2{
+    background-color: azure;
+    width:fit-content;
+
+}
+#item-3{
+    background-color: azure;
+    width:fit-content;
+
+}
+#item-4{
+    background-color: azure;
+    width:fit-content;
+
+}
+#item-5{
+    background-color: azure;
+    width:fit-content;
+
+}
